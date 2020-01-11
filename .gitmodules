@@ -1,0 +1,7 @@
+[submodule "OpenSky2Json"]
+	path = OpenSky2Json
+	url = https://github.com/ADLINK-Mike/OpenSky2Json.git
+	branch = master
+[submodule "FACE-ADS-B-Visualizer"]
+	path = FACE-ADS-B-Visualizer
+	url = https://github.com/ADLINK-Mike/FACE-ADS-B-Visualizer.git
